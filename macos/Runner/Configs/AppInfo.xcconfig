@@ -5,10 +5,10 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = ostad_flutter_batch_12
+PRODUCT_NAME = modlue_13_assignment
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.ostadFlutterBatch12
+PRODUCT_BUNDLE_IDENTIFIER = com.example.modlue13Assignment
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2025 com.example. All rights reserved.

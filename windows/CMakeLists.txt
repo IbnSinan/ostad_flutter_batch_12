@@ -1,10 +1,10 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
-project(ostad_flutter_batch_12 LANGUAGES CXX)
+project(modlue_13_assignment LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
-set(BINARY_NAME "ostad_flutter_batch_12")
+set(BINARY_NAME "modlue_13_assignment")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.
