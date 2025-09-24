@@ -22,7 +22,7 @@ class CustomCard extends StatelessWidget {
       elevation: 3,
       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
       child: Padding(
-        padding: const EdgeInsets.all(8), // slightly less padding
+        padding: const EdgeInsets.all(8), 
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
@@ -124,7 +124,7 @@ class CustomCard extends StatelessWidget {
               style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
 
             ),
-            const Spacer(), // pushes button to bottom if space allows
+            const Spacer(), 
             SizedBox(
               width: double.infinity,
               child: Container(
